@@ -15,9 +15,9 @@
 #include <map>
 
 #define WIFI_SSID         "ABHI SUPPLY"    
-#define WIFI_PASS         "9337541054"
-#define APP_KEY           "887a7def-661e-4252-b05e-ba1e6f1a0c16"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
-#define APP_SECRET        "0aecfbc3-fc4c-4fc8-ac60-84a8195b25e0-06387354-e2e0-4778-90c6-451e1cb27c48"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
+#define WIFI_PASS         "Enter_the_password"
+#define APP_KEY           "887a7def-661e-4252-b05e-ba1e6f1a0c"      // Should look like "de0bxxxx-1x3x-4x3x-ax2x-5dabxxxxxxxx"
+#define APP_SECRET        "0aecfbc3-fc4c-4fc8-ac60-84a81b25e0-06387354-e2e0-4778-90c6-451e1cb27c48"   // Should look like "5f36xxxx-x3x7-4x3x-xexe-e86724a9xxxx-4c4axxxx-3x3x-x5xe-x9x3-333d65xxxxxx"
 
 //Enter the device IDs here
 #define device_ID_1   "Switch 1 here"
